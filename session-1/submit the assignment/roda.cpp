@@ -26,7 +26,7 @@ int main() {
 	double total_putaran = jarak_keseluruhan_cm / keliling_ban_cm;
 
 	//total 
-	cout << "\nTotal putaran ban:  " << total_putaran << endl;
+	cout << "Total putaran ban:  " << total_putaran << endl;
 		return 0;
 }
 
